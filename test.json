@@ -1,0 +1,30 @@
+{
+  "job": {
+    "averagePrintTime": 44501.254377126694, 
+    "estimatedPrintTime": 22578.951475764392, 
+    "filament": {
+      "tool0": {
+        "length": 18320.303700018736, 
+        "volume": 0.0
+      }
+    }, 
+    "file": {
+      "date": 1539572690, 
+      "display": "CE3_Pi_Case.gcode", 
+      "name": "CE3_Pi_Case.gcode", 
+      "origin": "local", 
+      "path": "CE3_Pi_Case.gcode", 
+      "size": 41128579
+    }, 
+    "lastPrintTime": 44501.254377126694, 
+    "user": "LTM"
+  }, 
+  "progress": {
+    "completion": null, 
+    "filepos": null, 
+    "printTime": null, 
+    "printTimeLeft": null, 
+    "printTimeLeftOrigin": null
+  }, 
+  "state": "Operational"
+}
