@@ -1,0 +1,30 @@
+{
+  "job": {
+    "averagePrintTime": null, 
+    "estimatedPrintTime": 14085.010761546204, 
+    "filament": {
+      "tool0": {
+        "length": 15975.991910000776, 
+        "volume": 0.0
+      }
+    }, 
+    "file": {
+      "date": 1539863622, 
+      "display": "CE3_USB-SD-MicroSD_Card_Holder_-_v2.0.gcode", 
+      "name": "CE3_USB-SD-MicroSD_Card_Holder_-_v2.0.gcode", 
+      "origin": "local", 
+      "path": "CE3_USB-SD-MicroSD_Card_Holder_-_v2.0.gcode", 
+      "size": 11154349
+    }, 
+    "lastPrintTime": null, 
+    "user": "LTM"
+  }, 
+  "progress": {
+    "completion": 0.028015978341721242, 
+    "filepos": 3125, 
+    "printTime": 265, 
+    "printTimeLeft": 14030, 
+    "printTimeLeftOrigin": "analysis"
+  }, 
+  "state": "Printing"
+}
